@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kisimani House Management System
 
 A modern property and residential management platform designed to simplify the management of estates, blocks, floors, houses, unit types, facilities, and amenities from a centralized administrative dashboard.
@@ -444,3 +445,6 @@ Built with:
 This project is intended for the management and administration of residential properties.
 
 For licensing and usage information, refer to the project's applicable license and deployment agreement.
+=======
+# frere-system
+>>>>>>> 5db1107b189aea65299cfd1559093ec5bd8ae3fd
