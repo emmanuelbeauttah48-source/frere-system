@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kisimani House Management System
 
 A modern property and residential management platform designed to simplify the management of estates, blocks, floors, houses, unit types, facilities, and amenities from a centralized administrative dashboard.
